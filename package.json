@@ -1,0 +1,16 @@
+{
+"name": "tony168",
+"theme": "tony168",
+"version": "8.2.7",
+"description": "tony168 สมัครเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"tony168",
+"tony168 เครดิตฟรี",
+"tony168 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/tony168",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
